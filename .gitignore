@@ -1,0 +1,1 @@
+# Python __pycache__/ *.py[cod] *.egg-info/ .eggs/ build/ dist/ .venv/ venv/ # IDE .idea/ .vscode/ # Tool output - never commit real evidence/case data evidence/ reports/ *.case *.zip # OS .DS_Store Thumbs.db
